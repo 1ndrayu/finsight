@@ -50,7 +50,6 @@ structure.txt
 }
 ```
 ---
-## Run It Locally
 # Clone this repo
 git clone https://github.com/your-username/FinSight.git
 cd FinSight
