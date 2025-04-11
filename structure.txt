@@ -1,0 +1,15 @@
+finsight_api/
+│
+├── app/
+│   ├── main.py               # FastAPI entrypoint
+│   ├── models.py             # Pydantic models
+│   ├── crud.py               # Data processing logic
+│   ├── database.py           # (Optional) DB setup or mock data
+│   ├── schemas.py            # Data validation schemas
+│   └── insights.py           # Core insight logic
+│
+├── data/
+│   └── transactions.csv      # Mock data
+│
+├── requirements.txt
+└── README.md
