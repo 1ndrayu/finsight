@@ -1,0 +1,9 @@
+date,amount,category,type,description
+2025-03-01,1200,Salary,credit,March Salary
+2025-03-02,-200,Groceries,debit,D-Mart
+2025-03-05,-80,Transport,debit,Uber
+2025-03-10,-500,Rent,debit,March Rent
+2025-03-15,-150,Entertainment,debit,Netflix
+2025-03-20,1000,Freelance,credit,Upwork
+2025-03-22,-100,Bills,debit,Electricity
+2025-03-25,-200,Groceries,debit,Big Bazaar
