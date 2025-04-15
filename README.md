@@ -2,8 +2,7 @@
 
 **FinSight** is a lightweight financial insights API that parses personal transaction data (CSV) and delivers smart, structured analytics — from monthly summaries to spending alerts and trend visualizations.
 
-Built using **FastAPI** and **Pandas**, it's perfect for personal finance dashboards or internship portfolio projects.
-
+Built using **FastAPI** and **Pandas**
 ---
 
 ## 🚀 Features
